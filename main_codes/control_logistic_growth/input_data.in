@@ -1,0 +1,19 @@
+# Important Note:
+# The variable 'num_parameters' refers to the number of parameters that need calibration.
+
+# *------------------------------------*
+# |          SETUP PARAMETERS          |
+# *------------------------------------*
+
+num_parameters = 3
+
+# *------------------------------------*
+# |            PRIOR VALUES            |
+# *------------------------------------*
+
+n0_min = 8.0e2
+n0_max = 2.0e4
+kp_min = 0.0
+kp_max = 6.0e-2
+theta_min = 1.0e4
+theta_max = 4.0e4
